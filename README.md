@@ -116,5 +116,4 @@ php artisan serve
 
 **8. Abrir en el navegador**
 
-Visita: [http://127.0.0.1:8000](http://127.0.0.1:8000) ó http://plantas-app.test (según sea el nombre de tu proyecto)
-
+Visita: [http://127.0.0.1:8000](http://127.0.0.1:8000) ó http://plantas-app.test si posees Laravel Herd configurado en tu máquina.
